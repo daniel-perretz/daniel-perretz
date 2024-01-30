@@ -24,18 +24,18 @@ Completed Courses:
 
 💼 **Skills**
 I specialize in various programming languages:
-- Python 🐍
-- TypeScript 💻
+- Python 
+- TypeScript 
 - CSS 🎨
 - HTML 🌐
-- C, C++ 🚀
-- Java (OOP focused) ☕
-- Preprocessing 🔄
+- C, C++ 
+- Java (OOP focused) 
+- Preprocessing 
 
 ---
 
 🌐 **Connect with Me**
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/daniel-perretz-068280203/)
 
 ---
 
