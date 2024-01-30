@@ -1,8 +1,8 @@
 # Daniel Perretz - Profile
 👋 Hello there!
 
-I'm Daniel Perretz, a fourth-year Computer Science student at The Hebrew University of Jerusalem.
-
+    I'm Daniel Perretz, a fourth-year Computer Science student at The Hebrew University of Jerusalem.
+    My interests lie in computer vision, web scraping, network security, and finding solutions to animal-related issues.
 ---
 
 🎓 **Education**
