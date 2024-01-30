@@ -1,16 +1,41 @@
-### Hi there 👋
+# Daniel Perretz - Profile
+👋 Hello there!
 
-<!--
-**daniel-perretz/daniel-perretz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel Perretz, a fourth-year Computer Science student at The Hebrew University of Jerusalem.
 
-Here are some ideas to get you started:
+🎓 **Education**
+- The Hebrew University of Jerusalem
+  - *B.Sc, Computer Science*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Completed Courses:
+- Python
+- C/C++
+- Object-Oriented Programming (OOP)
+- Machine Learning
+- Operating Systems
+- Data Structures
+- Algorithms
+- Computational Models
+- Image Processing
+
+💼 **Skills**
+I specialize in various programming languages:
+- Python 
+- TypeScript 
+- CSS 🎨
+- HTML 🌐
+- C, C++ 
+- Java (OOP focused) 
+- Preprocessing 
+
+🌐 **Connect with Me**
+- [LinkedIn](#)
+
+🚀 **What I'm Learning**
+Currently, I'm diving deep into database creation and analysis to optimize initial treatments for dogs. My aim is to enhance the efficiency and effectiveness of their first medical interventions using the skills I've acquired through my studies and additional courses on data preprocessing.
+
+Backend: Python, C, C++, Java
+
+Frontend: HTML, CSS, TypeScript
+
+Feel free to explore my GitHub repositories for more details on my projects and contributions. Let's connect and collaborate! 
