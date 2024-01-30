@@ -39,8 +39,7 @@ I specialize in various programming languages:
 
 ---
 
-🚀 **What I'm Learning**
-Currently, I'm diving deep into database creation and analysis to optimize initial treatments for dogs. My aim is to enhance the efficiency and effectiveness of their first medical interventions using the skills I've acquired through my studies and additional courses on data preprocessing.
+🚀 **Currently**, I'm diving deep into database creation and analysis to optimize initial treatments for dogs. My aim is to enhance the efficiency and effectiveness of their first medical interventions using the skills I've acquired through my studies and additional courses on data preprocessing.
 
 Backend: Python, C, C++, Java
 
