@@ -23,6 +23,7 @@ Completed Courses:
 ---
 
 💼 **Skills**
+
 I specialize in various programming languages:
 - Python 
 - TypeScript 
