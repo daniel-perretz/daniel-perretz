@@ -35,7 +35,7 @@ I specialize in various programming languages:
 
 ---
 
-🌐 **📫 Get in touch**
+ 📫 **Get in touch**
 - [LinkedIn](https://www.linkedin.com/in/daniel-perretz-068280203/)
 
 ---
