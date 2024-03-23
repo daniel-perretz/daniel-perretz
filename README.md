@@ -1,7 +1,7 @@
 # Daniel Perretz - Profile
 👋 Hello there!
 
-    I'm Daniel Perretz, a fourth-year Computer Science student at The Hebrew University of Jerusalem.
+    I'm Daniel Perretz, a Software Engineer who graduated with a B.Sc. in Computer Science from The Hebrew University of Jerusalem.
     My interests lie in computer vision, web scraping, network security, and finding solutions to animal-related issues.
 ---
 
@@ -19,6 +19,7 @@ Completed Courses:
 - Algorithms
 - Computational Models
 - Image Processing
+- Bayesian Machine Learning
 
 ---
 
