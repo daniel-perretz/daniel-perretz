@@ -20,6 +20,8 @@ Completed Courses:
 - Computational Models
 - Image Processing
 - Bayesian Machine Learning
+- Artificial Inteligence
+
 
 ---
 
