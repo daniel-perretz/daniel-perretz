@@ -23,6 +23,7 @@ Completed Courses:
 - Artificial Inteligence
 - Advanced Data Processing
 - Advanced Communication Networks - Workshop
+- Databases
 
 
 ---
