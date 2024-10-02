@@ -41,7 +41,7 @@ I specialize in various programming languages:
 - Java (OOP focused) 
 - Preprocessing
 - Computer Vision
-- 
+  
 
 ---
 
